@@ -23,7 +23,7 @@ github resourcehere: [kasusa/Docx_Search](https://github.com/kasusa/Docx_Search)
 
 ## 依赖
 
-本库是基于开源*非商用的docx库编写的。引用如下两个库，可以在这里下载：[xceedsoftware/DocX](https://github.com/xceedsoftware/DocX)，这个项目提供了一些非常实用的例子，建议先
+本库是基于开源*非商用的docx库编写的。引用如下两个库，可以在这里下载：[xceedsoftware/DocX](https://github.com/xceedsoftware/DocX)，这个项目提供了一些非常实用的例子，建议新手先看他们的例子来学习c#操作word的逻辑。
 
 ```
 using Xceed.Document.NET;
